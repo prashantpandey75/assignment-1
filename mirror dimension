@@ -1,0 +1,1 @@
+p=str(input('enter the word for mirror dimension'))
