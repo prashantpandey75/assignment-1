@@ -1,1 +1,5 @@
-p=str(input('enter the word for mirror dimension'))
+p=str(input('enter word to be reversed'))
+reversed=''
+for c in p:
+    reversed = c + reversed
+print (reversed)
